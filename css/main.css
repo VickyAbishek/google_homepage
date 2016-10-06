@@ -1,0 +1,82 @@
+
+.logo{
+	margin-top: 18%;
+	margin-left: 40%;
+}
+
+.search_box{
+	border: 1px solid black;
+	height: 25px;
+	
+	width: 300px;
+	margin-left: 40%;
+}
+
+#from{
+float: left;
+width: 270px;
+height: 22px;
+border:none;
+border-right: hidden;
+font-size: 1.5em;
+}
+
+form input:focus {
+	outline: none;
+}
+
+#voice{
+float: left;
+width: 25px;
+height: 25px;	
+}
+
+button:hover{
+	color: #000000	;
+
+}
+
+.search_buttons{
+	display: inline-block;
+	padding: 10px;
+	font-size:13px;
+		margin-left: 40%;
+
+}
+
+div button:first-child{
+		margin-right: 20px;
+		margin-left: 10px;
+}
+
+.footer
+{
+	margin-top: 14%;
+	height: 65px;
+	background-color: #efefef;
+}
+
+.lfooter p{
+	padding: 10px;
+	float: left;
+}
+
+.rfooter p{
+	padding: 10px;
+	float: right;
+	
+}
+
+li{
+	list-style-type: none;
+}
+
+.top_bar{
+	float: right;
+	margin-top: -5px;
+}
+.top_bar ul li{
+	padding-right: 15px;
+	vertical-align: center;
+	display: inline-block;
+}
